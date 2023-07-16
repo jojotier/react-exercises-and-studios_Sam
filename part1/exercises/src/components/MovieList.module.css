@@ -1,7 +1,12 @@
 .movieText {
-   color: black;
+   color: #9f1fdf;
+   font-family:comic;
+   font-size: 30px;
 }
 
 .movieHeading {
-   color: black;
+   color: #58f808;
+   text-align: center;
+   font-family:serif;
+   font-size: 50px;;
 }
